@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rrreaverrrr
 - 👀 I’m interested in nature
 - 🌱 I’m currently learning flutter native programming
-- 💞️ I’m looking to collaborate on easy to medium project
+- 💞️ I’m not collaborating with anyone
 - 📫 you can't reach me anywhere
 
 <!---
